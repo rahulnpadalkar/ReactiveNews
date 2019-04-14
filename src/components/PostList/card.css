@@ -1,0 +1,43 @@
+.custom-card {
+    border-radius: 5px;
+    box-shadow: -1px 3px 10px 0px #d4d4d4;
+}
+
+.custom-card-container {
+    margin-bottom: 3rem;
+    height: 10rem;
+}
+
+.card-details-container {
+    height: 100%;
+    padding-left: 2.5rem;
+}
+
+.custom-card-title {
+    text-overflow: ellipsis;
+    font-size: 2rem;
+    height: 70%;
+    display: flex;
+}
+
+.custom-card-footer {
+    color:#bcbcbc;
+    height: 30%;
+}
+
+.custom-card a {
+    text-decoration: none;
+    color: #444;
+}
+
+.custom-card-title-container {
+    align-self: center;
+}
+
+.score-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 2rem;
+    color:#f36157;
+}

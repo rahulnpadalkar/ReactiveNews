@@ -1,0 +1,30 @@
+.toolbarContainer {
+    background-color: #ffffff;
+    box-shadow: 0 5px 15px 0 #eaeaea;
+    height: 8rem;
+}
+
+.branding, .navMenu {
+    font-family: 'Roboto' , sans-serif;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    color:#dadada;
+    font-size: 1.5rem;
+}
+
+.branding {
+    color: #f46257;
+}
+
+.brand-name {
+    margin-left: 12rem;
+    font-size: 1.5rem;
+}
+
+.menu-active-tab {
+    color:#444;
+}
+
+.menu-item {
+    cursor: pointer;
+}

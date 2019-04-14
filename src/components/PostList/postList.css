@@ -1,0 +1,16 @@
+.loader-container {
+    margin-top: 20rem;
+}
+
+.loader {
+    margin-left: 50%;
+}
+
+.post-container {
+    padding-top: 5rem;
+}
+
+.author-container{
+    padding-right: 2rem;
+    text-align: end;
+}
